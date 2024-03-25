@@ -17,4 +17,12 @@ const usuarios = [
         altura: 1.89,
         ativo: true
     },
+    {
+        id: 3,
+        nome: 'Juliete Ramos',
+        altura: 1.96,
+        ativo: true
+    },
 ];
+
+export default usuarios;
