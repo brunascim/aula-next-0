@@ -18,10 +18,10 @@ const usuarios = [
         ativo: true
     },
     {
-        id: 3,
+        id: 4,
         nome: 'Juliete Ramos',
         altura: 1.96,
-        ativo: true
+        ativo: false
     },
 ];
 
